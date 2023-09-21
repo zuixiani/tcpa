@@ -1,5 +1,4 @@
-# tcpa
-TCPA备份
+# TCPA备份
 ======
 ## 一键脚本
 ``` bash
