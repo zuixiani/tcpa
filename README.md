@@ -1,14 +1,16 @@
 # TCPA备份
-======
 ## 一键脚本
 ``` bash
 wget http://shaojin520.gitee.io/script/TCPA/tcpa.sh
 chmod +x tcpa.sh
 sh tcpa.sh
 ```
-
+或者
 ``` bash
 yum install -y wget && wget -O tcpa.sh https://github.com/zuixiani/tcpa/raw/main/tcpa.sh && sh tcpa.sh
+```
+或者
+``` bash
 wget https://github.com/zuixiani/tcpa/raw/main/tcpa.sh -O tcpa.sh;sh tcpa.sh
 ```
 ## 脚本说明
